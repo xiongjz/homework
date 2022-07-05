@@ -1,0 +1,21 @@
+<int 101>    key word
+<main 100>    key word
+<( 122>    jiefu
+<) 123>    jiefu
+<{ 124>    jiefu
+<int 101>    key word
+<a 1>    biaoshifu
+<, 128>    jiefu
+<b 1>    biaoshifu
+<; 129>    jiefu
+<a 1>    biaoshifu
+<= 5>    yunsuanfu
+<3 2>    number
+<; 129>    jiefu
+<b 1>    biaoshifu
+<= 5>    yunsuanfu
+<a 1>    biaoshifu
+<+ 4>    yunsuanfu
+<4 2>    number
+<; 129>    jiefu
+<} 125>    jiefu
